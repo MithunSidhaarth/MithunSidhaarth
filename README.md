@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **itzme@mithunsidhaarth.tech**
 
-- ⚡ To Contact Me Quickly Send Me A [Mail](mailto:itzme@mithunsidhaarth.tech?subject=Let's&nbsp;Talk)**
+- ⚡ To Contact Me Quickly Send Me A [Mail](mailto:itzme@mithunsidhaarth.tech?subject=Let's&nbsp;Talk)
 
 ## 🚀 Languages and Tools:
 
