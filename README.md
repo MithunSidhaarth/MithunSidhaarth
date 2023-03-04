@@ -77,6 +77,6 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=iamshubhdev">
+    <img src="https://komarev.com/ghpvc/?username=mithunsidhaarth">
 </a>
-<a href="https://github.com/MithunSidhaarth?tab=followers"><img src="https://img.shields.io/github/followers/iamshubhdev?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/MithunSidhaarth?tab=followers"><img src="https://img.shields.io/github/followers/mithunsidhaarth?label=Followers&style=social" alt="GitHub Badge"></a>
