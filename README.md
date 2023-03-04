@@ -44,7 +44,7 @@
 <br/>
 
 <p align="center">
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MithunSidhaarth&" alt="iamshubhdev" /></p>
+       <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MithunSidhaarth&" alt="MithunSidhaarth" /></p>
 
     
 </p>
@@ -54,7 +54,7 @@
 
   <br/>
     <a href="https://github.com/MithunSidhaarth/github-readme-stats"><img alt="Ace Duke's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MithunSidhaarth&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/iamshubhdev/github-readme-stats"><img alt="Ace Duke's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithunSidhaarth&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/MithunSidhaart/github-readme-stats"><img alt="Ace Duke's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithunSidhaarth&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
